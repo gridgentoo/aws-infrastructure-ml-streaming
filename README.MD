@@ -1,3 +1,6 @@
+Оригинальный репозитарий.   
+https://github.com/DataReply/aws-infrastructure-ml-streaming.  
+
 # aws-infrastructure-ml-streaming
 
 This repository defines aws infrastructure required to operate the ml-streaming showcase.
